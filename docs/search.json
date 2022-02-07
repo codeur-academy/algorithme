@@ -1,0 +1,35 @@
+{
+"index-html": {
+      "title": "Initiation",
+      "content"	 : "Les bases de la programmation et algorithmeAprès 10 ans d’enseignement de la formation d’initiation à la programmation pour les jeunes entre 18 et 25 ans. J’ai décidé de réaliser cette formation pour aider mes nouveaux apprenants à éviter les difficultés d’apprentissage de quelques notions de base. Notamment, Les difficultés que j’ai rencontrés avec mes anciens apprenants pendant mon expérience comme formateur.La formation est devisé en deux modules :  le premier module va vous expliquer les bases et les notions que vous devez savoir avant de commencer à apprendre un langage de programmation.  Le deuxième module va vous entraîner sur les techniques à apprendre pour bien analyser et réaliser des algorithmes et programmes solides.Dans le premier module, je vais vous montrer :  Ce que vous devez savoir sur l’ordinateur et l’informatique pour commencer à programmer ;  Les 4 catégories d’ordres compréhensibles par l’ordinateur (Variable/Affectation, Entrée/Sortie, Condition et Boucle) ;  Explication de chaque ordre avec des exemples clairs bien conçue pour les débutants en programmation.J’ai essayé de détailler et aller doucement avec les notions que j’ai senti sa difficulté d’apprentissage avec mes apprenants. J’ai utilisé pour ça des outils pour vous simuler l’exécution des exemples que j’ai utilisés dans la formation de façon à montrer son exécution dans l’écran et dans la mémoire de l’ordinateur.Je vous souhaite bon apprentissage et bon courage dans votre vie professionnelle.",
+      "url": "/algorithme/index.html",
+      "author": "",
+      "categories": "introduction"
+    }
+,
+"pr-c3-a9sentation-formateur-html": {
+      "title": "Présentation du formateur",
+      "content"	 : "Présentation du formateurJe m’appelle :ES-SARRAJ Fouad",
+      "url": "/algorithme/pr%C3%A9sentation-formateur.html",
+      "author": "",
+      "categories": "introduction"
+    }
+,
+"plan-formation-html": {
+      "title": "Plan du formation",
+      "content"	 : "Plan du formationPlan de la formationLa formation est divisée en 5 parties.  Notion de base,  et les 4 catégories d’ordre compréhensible par l’ordinateur.Dans la première partie intitulée « Notion de base » je vais vous montrer  C’est quoi l’informatique,  C’est quoi un ordinateur,  C’est quoi un algorithme  et je vais terminer par vous montrer comment réaliser votre premier programme.Dans les parties suivants, je vais vous assister à comprendre les 4 catégories d’ordre compréhensible par l’ordinateur,Tout d’abord, je commencerai par la catégorie d’ordre 1 intitulé : Entrée et Sortie.Ensuite : dans la catégorie d’ordre 2 : je vais traiter avec vous la notion du variable et d’affectation en détaillant le chapitre « Expression et opérateurs ».Enfin, dans les deux dernières parties je vais vous expliquer en détail la notion de Test et Boucle,Pendent, la formation, je vais essayer de détailler et d’aller doucement avec les notions que j’ai senti leur difficultés d’apprentissage avec mes anciens apprenants.Je vais utiliser pour ça des outils pour simuler l’exécution des exemples que je vais utiliser pendant la formation de façon à montrer son exécution sur l’écran et dans la mémoire de l’ordinateur.Finalement. Je vous souhaite bon apprentissage",
+      "url": "/algorithme/plan-formation.html",
+      "author": "",
+      "categories": "introduction"
+    }
+,
+"bien-d-c3-a9marrer-html": {
+      "title": "Bien démarrer",
+      "content"	 : "Bien démarrer",
+      "url": "/algorithme/bien-d%C3%A9marrer.html",
+      "author": "",
+      "categories": "commencer"
+    }
+
+
+}
