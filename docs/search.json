@@ -1,6 +1,6 @@
 {
 "index-html": {
-      "title": "Initiation",
+      "title": "Introduction",
       "content"	 : "Les bases de la programmation et algorithmeAprès 10 ans d’enseignement de la formation d’initiation à la programmation pour les jeunes entre 18 et 25 ans. J’ai décidé de réaliser cette formation pour aider mes nouveaux apprenants à éviter les difficultés d’apprentissage de quelques notions de base. Notamment, Les difficultés que j’ai rencontrés avec mes anciens apprenants pendant mon expérience comme formateur.La formation est devisé en deux modules :  le premier module va vous expliquer les bases et les notions que vous devez savoir avant de commencer à apprendre un langage de programmation.  Le deuxième module va vous entraîner sur les techniques à apprendre pour bien analyser et réaliser des algorithmes et programmes solides.Dans le premier module, je vais vous montrer :  Ce que vous devez savoir sur l’ordinateur et l’informatique pour commencer à programmer ;  Les 4 catégories d’ordres compréhensibles par l’ordinateur (Variable/Affectation, Entrée/Sortie, Condition et Boucle) ;  Explication de chaque ordre avec des exemples clairs bien conçue pour les débutants en programmation.J’ai essayé de détailler et aller doucement avec les notions que j’ai senti sa difficulté d’apprentissage avec mes apprenants. J’ai utilisé pour ça des outils pour vous simuler l’exécution des exemples que j’ai utilisés dans la formation de façon à montrer son exécution dans l’écran et dans la mémoire de l’ordinateur.Je vous souhaite bon apprentissage et bon courage dans votre vie professionnelle.",
       "url": "/algorithme/index.html",
       "author": "",
@@ -9,7 +9,7 @@
 ,
 "pr-c3-a9sentation-formateur-html": {
       "title": "Présentation du formateur",
-      "content"	 : "Présentation du formateurJe m’appelle :ES-SARRAJ Fouad",
+      "content"	 : "Présentation du formateurJe suis formateur et ingénieur informatique spécialisé en création des systèmes d’information. Je m’appelle :ES-SARRAJ Fouad.J’ai constaté depuis le début de ma carrière, en 2009, qu’il y a un manque énorme des compétences en termes de développement des systèmes d’information. C’est pour ça j’ai orienté mon objectif professionnel dans ce sens. Je réalise deux missions totalement différentes mais complémentaires : la formation et le développement d’application.Ma première mission est d’aider mes apprenants à devenir des bons développeurs informatiques. Je leur propose pour ça une multitude de formations en ligne ou présentiel bien conçue pour développer leurs compétences nécessaires capable de bâtir les meilleurs systèmes d’information.Ma deuxième mission est d’aider les PME à créer leur applications de gestion. Je leur propose la création d’une application qui fonctionne sur le Web, Mobile et Windows pour gérer leurs données et réaliser toutes tâches de gestion administrative.Ces deux missions, m’ont permet de comprendre les besoins des entreprises en terme des compétences requises pour bien créer des formations pertinentes à mes apprenants.",
       "url": "/algorithme/pr%C3%A9sentation-formateur.html",
       "author": "",
       "categories": "introduction"
@@ -17,10 +17,33 @@
 ,
 "plan-formation-html": {
       "title": "Plan du formation",
-      "content"	 : "Plan du formationPlan de la formationLa formation est divisée en 5 parties.  Notion de base,  et les 4 catégories d’ordre compréhensible par l’ordinateur.Dans la première partie intitulée « Notion de base » je vais vous montrer  C’est quoi l’informatique,  C’est quoi un ordinateur,  C’est quoi un algorithme  et je vais terminer par vous montrer comment réaliser votre premier programme.Dans les parties suivants, je vais vous assister à comprendre les 4 catégories d’ordre compréhensible par l’ordinateur,Tout d’abord, je commencerai par la catégorie d’ordre 1 intitulé : Entrée et Sortie.Ensuite : dans la catégorie d’ordre 2 : je vais traiter avec vous la notion du variable et d’affectation en détaillant le chapitre « Expression et opérateurs ».Enfin, dans les deux dernières parties je vais vous expliquer en détail la notion de Test et Boucle,Pendent, la formation, je vais essayer de détailler et d’aller doucement avec les notions que j’ai senti leur difficultés d’apprentissage avec mes anciens apprenants.Je vais utiliser pour ça des outils pour simuler l’exécution des exemples que je vais utiliser pendant la formation de façon à montrer son exécution sur l’écran et dans la mémoire de l’ordinateur.Finalement. Je vous souhaite bon apprentissage",
+      "content"	 : "Plan de la formationLa formation est divisée en 5 parties :  Notion de base;  Les 4 catégories d’ordre compréhensible par l’ordinateur :          Entrée et sortie      Variable et affectation      Expression et opérateurs      Test      Boucle      Dans la première partie intitulée « Notion de base » je vais vous montrer  C’est quoi l’informatique,  C’est quoi un ordinateur,  C’est quoi un algorithme  et je vais terminer par vous montrer comment réaliser votre premier programme.Dans les parties suivants, je vais vous assister à comprendre les 4 catégories d’ordre compréhensible par l’ordinateur,Tout d’abord, je commencerai par la catégorie d’ordre 1 intitulé : Entrée et Sortie.Ensuite : dans la catégorie d’ordre 2 : je vais traiter avec vous la notion du variable et d’affectation en détaillant le chapitre « Expression et opérateurs ».Enfin, dans les deux dernières parties je vais vous expliquer en détail la notion de Test et Boucle.",
       "url": "/algorithme/plan-formation.html",
       "author": "",
       "categories": "introduction"
+    }
+,
+"comprendre-ordinateur-html": {
+      "title": "Bien démarrer",
+      "content"	 : "Comprendre l’ordinateurDans ce chapitre je vais vous montrer la définition de l’informatiqueVous avez déjà utilisé l’informatique soit dans votre ordinateur ou dans votre téléphone portable, vous avez utilisé des logiciels.Mais, est ce que vous avez poser la question : c’est quoi l’informatique.Je vais vous montrer dans cette présentation la définition de l’informatique via trois autre définitions  Information  Traitement de l’information  Et Traitement automatique de l’information.",
+      "url": "/algorithme/comprendre-ordinateur.html",
+      "author": "",
+      "categories": "ordinateur"
+    }
+,
+"informatique-html": {
+      "title": "C’est quoi l’informatique ?",
+      "content"	 : "C’est quoi l’informatique ?La notion de l’informatique est en relation avec trois autre notions  Information;  traitement de l’information;  traitement automatique de l’information.",
+      "url": "/algorithme/informatique.html",
+      "author": "",
+      "categories": "ordinateur"
+    },
+"informatique-html#information": {
+      "title": "Information  (C’est quoi l’informatique ?)",
+      "content"	 : "InformationTous d’abord, c’est quoi l’informaiton.Vous pouvez voir l’information comme un renseignement sur une personne, un objet ou un événement.Je vous donne un exemple. Le plat que vous voyez contient 5 pommes.Comme information : je peut vous dire que «  le plat contient cinq pomme ».",
+      "url": "/algorithme/informatique.html#information",
+      "author": "",
+      "categories": "ordinateur"
     }
 ,
 "bien-d-c3-a9marrer-html": {
