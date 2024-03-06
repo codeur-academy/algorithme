@@ -2,10 +2,10 @@
 
 ## Présentation 
 
-<!-- [![introduction](/images/formation-algorithme.png)](https://www.youtube.com/watch?v=vFKJVftD38I&ab_channel=Codeur-academy) -->
-
-<a href="https://www.youtube.com/watch?v=vFKJVftD38I&ab_channel=Codeur-academy" target="_blank" >
-<img src="/images/formation-algorithme.png" with="90%">
+<a  href="https://www.youtube.com/watch?v=vFKJVftD38I&ab_channel=Codeur-academy" 
+    target="_blank"
+    style="text-align: center;display: block;" >
+    <img src="/images/formation-algorithme.png" style="max-width: 80%;">
 </a>
 
 
