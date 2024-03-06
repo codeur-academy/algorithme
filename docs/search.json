@@ -5,6 +5,13 @@
       "url": "/algorithme/index.html",
       "author": "",
       "categories": "introduction"
+    },
+"index-html#formation-complète-en-vidéo": {
+      "title": "Formation complète en vidéo.  (Introduction)",
+      "content"	 : "Formation complète en vidéo.La formation est disponible en format vidéo sur Udemy",
+      "url": "/algorithme/index.html#formation-complète-en-vidéo",
+      "author": "",
+      "categories": "introduction"
     }
 ,
 "pr-c3-a9sentation-formateur-html": {
@@ -17,63 +24,63 @@
 ,
 "plan-formation-html": {
       "title": "Plan du formation",
-      "content"	 : "Plan de la formationLa formation est divisée en 5 parties :  Notion de base;  Les 4 catégories d’ordre compréhensible par l’ordinateur :          Entrée et sortie      Variable et affectation      Expression et opérateurs      Test      Boucle      Dans la première partie intitulée « Notion de base » je vais vous montrer  C’est quoi l’informatique,  C’est quoi un ordinateur,  C’est quoi un algorithme  et je vais terminer par vous montrer comment réaliser votre premier programme.Dans les parties suivantes, je vais vous assister à comprendre les 4 catégories d’ordre compréhensible par l’ordinateur,Tout d’abord, je commencerai par la catégorie d’ordre 1 intitulé : Entrée et Sortie.Ensuite : dans la catégorie d’ordre 2 : je vais traiter avec vous la notion du variable et d’affectation en détaillant le chapitre « Expression et opérateurs ».Enfin, dans les deux dernières parties je vais vous expliquer en détail la notion du Test et de la Boucle.",
+      "content"	 : "Plan de la formationLa formation est divisée en 5 parties :  Notions de base :          Comprendre l’ordinateur      Algorithme et pseudo-code        Les 4 catégories d’ordre compréhensible par l’ordinateur :          Entrée et sortie      Variable et affectation      Expression et opérateurs      Test      Boucle      Dans la première partie intitulée « Notion de base » je vais vous montrer  C’est quoi l’informatique,  C’est quoi un ordinateur,  C’est quoi un algorithme  et je vais terminer par vous montrer comment réaliser votre premier programme.Dans les parties suivantes, je vais vous assister à comprendre les 4 catégories d’ordre compréhensible par l’ordinateur,Tout d’abord, je commencerai par la catégorie d’ordre 1 intitulé : Entrée et Sortie.Ensuite : dans la catégorie d’ordre 2 : je vais traiter avec vous la notion du variable et d’affectation en détaillant le chapitre « Expression et opérateurs ».Enfin, dans les deux dernières parties je vais vous expliquer en détail la notion du Test et de la Boucle.",
       "url": "/algorithme/plan-formation.html",
       "author": "",
       "categories": "introduction"
     },
 "plan-formation-html#section-1--introduction": {
       "title": "Section 1 : Introduction  (Plan du formation)",
-      "content"	 : "Section 1 : Introduction  Introduction  Présentation du formateur    ",
+      "content"	 : "Section 1 : Introduction  Introduction  Présentation du formateur",
       "url": "/algorithme/plan-formation.html#section-1--introduction",
       "author": "",
       "categories": "introduction"
     },
 "plan-formation-html#section-2--comprendre-lordinateur": {
       "title": "Section 2 : Comprendre l’ordinateur  (Plan du formation)",
-      "content"	 : "Section 2 : Comprendre l’ordinateur    C’est quoi l’informatique  C’est quoi l’ordinateur    ",
+      "content"	 : "Section 2 : Comprendre l’ordinateur  C’est quoi l’informatique  C’est quoi l’ordinateur",
       "url": "/algorithme/plan-formation.html#section-2--comprendre-lordinateur",
       "author": "",
       "categories": "introduction"
     },
 "plan-formation-html#section-3--algorithme-et-pseudo-code": {
       "title": "Section 3 : Algorithme et pseudo-code  (Plan du formation)",
-      "content"	 : "Section 3 : Algorithme et pseudo-code    C’est quoi un algorithme  Premier programme    ",
+      "content"	 : "Section 3 : Algorithme et pseudo-code  C’est quoi un algorithme  Premier programme",
       "url": "/algorithme/plan-formation.html#section-3--algorithme-et-pseudo-code",
       "author": "",
       "categories": "introduction"
     },
 "plan-formation-html#section-4--variable-et-affectation": {
       "title": "Section 4 : Variable et Affectation  (Plan du formation)",
-      "content"	 : "Section 4 : Variable et Affectation    C’est quoi d’une variable  Syntaxe de déclaration des variables  Affectation  Expression et opérateurs    ",
+      "content"	 : "Section 4 : Variable et Affectation  C’est quoi d’une variable  Syntaxe de déclaration des variables  Affectation  Expression et opérateurs",
       "url": "/algorithme/plan-formation.html#section-4--variable-et-affectation",
       "author": "",
       "categories": "introduction"
     },
 "plan-formation-html#section-5--entrée-et-sortie": {
       "title": "Section 5 : Entrée et sortie  (Plan du formation)",
-      "content"	 : "Section 5 : Entrée et sortie    Instruction Afficher  TD1-Afficher  Instruction - Lire  TD1- Lire    ",
+      "content"	 : "Section 5 : Entrée et sortie  Instruction Afficher  TD1-Afficher  Instruction - Lire  TD1- Lire",
       "url": "/algorithme/plan-formation.html#section-5--entrée-et-sortie",
       "author": "",
       "categories": "introduction"
     },
 "plan-formation-html#section-6---test": {
       "title": "Section 6 - Test  (Plan du formation)",
-      "content"	 : "Section 6 - Test    Instruction SI    ",
+      "content"	 : "Section 6 - Test  Instruction SI",
       "url": "/algorithme/plan-formation.html#section-6---test",
       "author": "",
       "categories": "introduction"
     },
 "plan-formation-html#section-7--boucle": {
       "title": "Section 7 : Boucle  (Plan du formation)",
-      "content"	 : "Section 7 : Boucle    La boucle Répéter    ",
+      "content"	 : "Section 7 : Boucle  La boucle Répéter",
       "url": "/algorithme/plan-formation.html#section-7--boucle",
       "author": "",
       "categories": "introduction"
     },
 "plan-formation-html#section-8--tableau": {
       "title": "Section 8 : Tableau  (Plan du formation)",
-      "content"	 : "Section 8 : Tableau  ",
+      "content"	 : "Section 8 : Tableau",
       "url": "/algorithme/plan-formation.html#section-8--tableau",
       "author": "",
       "categories": "introduction"
@@ -81,7 +88,7 @@
 ,
 "comprendre-ordinateur-html": {
       "title": "Bien démarrer",
-      "content"	 : "Comprendre l’ordinateurDans ce chapitre je vais vous montrer la définition de l’informatiqueVous avez déjà utilisé l’informatique soit dans votre ordinateur ou dans votre téléphone portable, vous avez utilisé des logiciels.Mais, est ce que vous avez poser la question : c’est quoi l’informatique.Je vais vous montrer dans cette présentation la définition de l’informatique via trois autre définitions  Information  Traitement de l’information  Et Traitement automatique de l’information.",
+      "content"	 : "Comprendre l’ordinateur",
       "url": "/algorithme/comprendre-ordinateur.html",
       "author": "",
       "categories": "ordinateur"
@@ -89,15 +96,85 @@
 ,
 "informatique-html": {
       "title": "C’est quoi l’informatique ?",
-      "content"	 : "C’est quoi l’informatique ?La notion de l’informatique est en relation avec trois autre notions  Information;  traitement de l’information;  traitement automatique de l’information.",
+      "content"	 : "C’est quoi l’informatiqueDans ce chapitre je vais vous montrer la définition de l’informatique.Vous avez déjà utilisé l’informatique soit dans votre ordinateur ou dans votre téléphone portable, vous avez utilisé des logiciels.Mais, est ce que vous avez poser la question : c’est quoi l’informatique.Je vais vous montrer dans cette présentation la définition de l’informatique via trois autre définitions  Information  Traitement de l’information  Traitement automatique de l’information",
       "url": "/algorithme/informatique.html",
+      "author": "",
+      "categories": "ordinateur"
+    },
+"informatique-html#informatique": {
+      "title": "Informatique  (C’est quoi l’informatique ?)",
+      "content"	 : "InformatiqueLa notion de l’informatique est en relation avec trois autre notions :  Information  Traitement de l’information  Traitement automatique de l’information",
+      "url": "/algorithme/informatique.html#informatique",
       "author": "",
       "categories": "ordinateur"
     },
 "informatique-html#information": {
       "title": "Information  (C’est quoi l’informatique ?)",
-      "content"	 : "InformationTous d’abord, c’est quoi l’informaiton.Vous pouvez voir l’information comme un renseignement sur une personne, un objet ou un événement.Je vous donne un exemple. Le plat que vous voyez contient 5 pommes.Comme information : je peut vous dire que «  le plat contient cinq pomme ».",
+      "content"	 : "InformationTous d’abord, c’est quoi l’informaiton.Vous pouvez voir l’information comme un renseignement sur une personne, un objet ou un événementJe vous donne un exemple. Le plat que vous voyez contient 5 pommes.Comme information : je peut vous dire queInformation : « le plat contient cinq pomme »",
       "url": "/algorithme/informatique.html#information",
+      "author": "",
+      "categories": "ordinateur"
+    },
+"informatique-html#formes-dinformations": {
+      "title": "Formes d’informations  (C’est quoi l’informatique ?)",
+      "content"	 : "Formes d’informationsL’information peut prend plusieurs formes :  Numérique  Alphanumérique  Textuelle  Visuelle  Sonore  AudiovisuelleNumérique  5  5,5Alphanumérique  A  5Textuelle  Pomme  5 pommesVisuelleSonoreAudiovisuelle",
+      "url": "/algorithme/informatique.html#formes-dinformations",
+      "author": "",
+      "categories": "ordinateur"
+    },
+"informatique-html#information-et-données": {
+      "title": "Information et données  (C’est quoi l’informatique ?)",
+      "content"	 : "Information et donnéesMaintenant, quelle est la relation entre information et donnée ? Souvent on mélange ces deux notions.Nous pouvons voir l’information comme une association entre les donnéesJe vous donne un exemple :  à partie de notre plat qui contient 5 pommes. Nous avons deux données  Donnée 1 = 5 pommes  Donnée 2 = un platet une association  Association 1 = les pommes sur le platInformation 1 = Le plat contient 5 pommes",
+      "url": "/algorithme/informatique.html#information-et-données",
+      "author": "",
+      "categories": "ordinateur"
+    },
+"informatique-html#traitement-de-linformation": {
+      "title": "Traitement de l’information  (C’est quoi l’informatique ?)",
+      "content"	 : "Traitement de l’informationMaintenant, c’est quoi le traitement de l’information",
+      "url": "/algorithme/informatique.html#traitement-de-linformation",
+      "author": "",
+      "categories": "ordinateur"
+    },
+"informatique-html#traitement-de-linformation---exemple": {
+      "title": "Traitement de l’information - exemple  (C’est quoi l’informatique ?)",
+      "content"	 : "Traitement de l’information - exempleMaintenant, c’est quoi le traitement de l’informationPour vous expliquer, on prend l’exemple d’un caissier qui veut calculer la somme des articles achetés par un client.Pour calculer cette somme le caissier doit connaître le prix de chaque article. Ensuite il va faire un ensemble d’opérations arithmétiques pour calculer le total à payer. Comme résultat, nous obtenons la somme à payer.Dans un traitement, le prix d’article 1 et d’article 2 s’appelle données d’entrés. Et la somme à payer s’appelle résultat. On parle ici du traitement Calculer la somme à payer.",
+      "url": "/algorithme/informatique.html#traitement-de-linformation---exemple",
+      "author": "",
+      "categories": "ordinateur"
+    },
+"informatique-html#traitement----définition": {
+      "title": "Traitement  - Définition  (C’est quoi l’informatique ?)",
+      "content"	 : "Traitement  - DéfinitionÀ partir cette exemple nous pouvons déduire la définition suivant :Le traitement de l’information est une suite d’opérations avec un ordre, sur les informations de départ pour d’obtenir une nouvelle information qui s’appelle résultat.",
+      "url": "/algorithme/informatique.html#traitement----définition",
+      "author": "",
+      "categories": "ordinateur"
+    },
+"informatique-html#traitement-automatique": {
+      "title": "Traitement Automatique  (C’est quoi l’informatique ?)",
+      "content"	 : "Traitement Automatique",
+      "url": "/algorithme/informatique.html#traitement-automatique",
+      "author": "",
+      "categories": "ordinateur"
+    },
+"informatique-html#traitement-automatique-ou-manuel": {
+      "title": "Traitement automatique ou manuel  (C’est quoi l’informatique ?)",
+      "content"	 : "Traitement automatique ou manuelCe traitement peut prend plusieurs formes :  Automatique  Semi-automatique  ManuelOn dit que le traitement est automatique s’il est réalisé par un ordinateur.On dit que le traitement est semi-automatique s’il est réalisé par un humain en utilisant un calculatrice.Et finalement, si le traitement est réalisé par un crayon et un papier on dit que le traitement est manuel.",
+      "url": "/algorithme/informatique.html#traitement-automatique-ou-manuel",
+      "author": "",
+      "categories": "ordinateur"
+    },
+"informatique-html#informatique-1": {
+      "title": "Informatique  (C’est quoi l’informatique ?)",
+      "content"	 : "Informatique",
+      "url": "/algorithme/informatique.html#informatique-1",
+      "author": "",
+      "categories": "ordinateur"
+    },
+"informatique-html#informatique---définition": {
+      "title": "Informatique - définition  (C’est quoi l’informatique ?)",
+      "content"	 : "Informatique - définitionIl est claire que :l’informatique est une est une science qui nous donne des outils pour faire le traitement automatique des informations.Ce traitement est généralement faite par une machine électrique ou un ordinateur.J’aimerai noter ici que, la source du nom informatique vient comme une combinaison entre le terme information et automatique",
+      "url": "/algorithme/informatique.html#informatique---définition",
       "author": "",
       "categories": "ordinateur"
     }
