@@ -1,12 +1,8 @@
 # Les bases de la programmation et algorithme
 
-<!-- new slide -->
+## Présentation 
 
-<!-- note -->
-
-<div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFKJVftD38I?end=74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+[![introduction](https://img.youtube.com/vi/vFKJVftD38I/0.jpg)](https://www.youtube.com/watch?v=vFKJVftD38I&ab_channel=Codeur-academy){:width="560"}
 
 
 Après **10 ans d’enseignement** de la formation d’**initiation à la programmation** pour les jeunes entre 18 et 25 ans. J’ai décidé de réaliser cette formation pour aider mes nouveaux apprenants à éviter les difficultés d’apprentissage de quelques notions de base. Notamment, Les difficultés que j’ai rencontrés avec mes anciens apprenants pendant **mon expérience comme formateur**.
@@ -32,4 +28,8 @@ J’ai essayé de détailler et aller doucement avec les notions que j’ai sent
 
 Je vous souhaite bon apprentissage et bon courage dans votre vie professionnelle.
 
-<!-- end note -->
+## Formation complet en vidéo 
+
+La formation est disponible en format vidéo sur Udemy 
+
+![https://www.udemy.com/course/les-bases-de-la-programmation-et-algorithme/?referralCode=0AB16423D1592F34D295](/images/formation-en-video.png)
