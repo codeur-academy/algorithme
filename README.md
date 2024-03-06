@@ -2,7 +2,11 @@
 
 ## Présentation 
 
-[![introduction](https://img.youtube.com/vi/vFKJVftD38I/0.jpg)](https://www.youtube.com/watch?v=vFKJVftD38I&ab_channel=Codeur-academy){:width="560"}
+<!-- [![introduction](/images/formation-algorithme.png)](https://www.youtube.com/watch?v=vFKJVftD38I&ab_channel=Codeur-academy) -->
+
+<a href="https://www.youtube.com/watch?v=vFKJVftD38I&ab_channel=Codeur-academy" target="_blank" >
+<img src="/images/formation-algorithme.png" with="90%">
+</a>
 
 
 Après **10 ans d’enseignement** de la formation d’**initiation à la programmation** pour les jeunes entre 18 et 25 ans. J’ai décidé de réaliser cette formation pour aider mes nouveaux apprenants à éviter les difficultés d’apprentissage de quelques notions de base. Notamment, Les difficultés que j’ai rencontrés avec mes anciens apprenants pendant **mon expérience comme formateur**.
