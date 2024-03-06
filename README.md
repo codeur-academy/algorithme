@@ -32,7 +32,7 @@ J’ai essayé de détailler et aller doucement avec les notions que j’ai sent
 
 Je vous souhaite bon apprentissage et bon courage dans votre vie professionnelle.
 
-## Formation complet en vidéo 
+## Formation complète en vidéo.
 
 La formation est disponible en format vidéo sur Udemy 
 
