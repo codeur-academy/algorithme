@@ -17,8 +17,64 @@
 ,
 "plan-formation-html": {
       "title": "Plan du formation",
-      "content"	 : "Plan de la formationLa formation est divisée en 5 parties :  Notion de base;  Les 4 catégories d’ordre compréhensible par l’ordinateur :          Entrée et sortie      Variable et affectation      Expression et opérateurs      Test      Boucle      Dans la première partie intitulée « Notion de base » je vais vous montrer  C’est quoi l’informatique,  C’est quoi un ordinateur,  C’est quoi un algorithme  et je vais terminer par vous montrer comment réaliser votre premier programme.Dans les parties suivants, je vais vous assister à comprendre les 4 catégories d’ordre compréhensible par l’ordinateur,Tout d’abord, je commencerai par la catégorie d’ordre 1 intitulé : Entrée et Sortie.Ensuite : dans la catégorie d’ordre 2 : je vais traiter avec vous la notion du variable et d’affectation en détaillant le chapitre « Expression et opérateurs ».Enfin, dans les deux dernières parties je vais vous expliquer en détail la notion de Test et Boucle.",
+      "content"	 : "Plan de la formationLa formation est divisée en 5 parties :  Notion de base;  Les 4 catégories d’ordre compréhensible par l’ordinateur :          Entrée et sortie      Variable et affectation      Expression et opérateurs      Test      Boucle      Dans la première partie intitulée « Notion de base » je vais vous montrer  C’est quoi l’informatique,  C’est quoi un ordinateur,  C’est quoi un algorithme  et je vais terminer par vous montrer comment réaliser votre premier programme.Dans les parties suivantes, je vais vous assister à comprendre les 4 catégories d’ordre compréhensible par l’ordinateur,Tout d’abord, je commencerai par la catégorie d’ordre 1 intitulé : Entrée et Sortie.Ensuite : dans la catégorie d’ordre 2 : je vais traiter avec vous la notion du variable et d’affectation en détaillant le chapitre « Expression et opérateurs ».Enfin, dans les deux dernières parties je vais vous expliquer en détail la notion du Test et de la Boucle.",
       "url": "/algorithme/plan-formation.html",
+      "author": "",
+      "categories": "introduction"
+    },
+"plan-formation-html#section-1--introduction": {
+      "title": "Section 1 : Introduction  (Plan du formation)",
+      "content"	 : "Section 1 : Introduction  Introduction  Présentation du formateur    ",
+      "url": "/algorithme/plan-formation.html#section-1--introduction",
+      "author": "",
+      "categories": "introduction"
+    },
+"plan-formation-html#section-2--comprendre-lordinateur": {
+      "title": "Section 2 : Comprendre l’ordinateur  (Plan du formation)",
+      "content"	 : "Section 2 : Comprendre l’ordinateur    C’est quoi l’informatique  C’est quoi l’ordinateur    ",
+      "url": "/algorithme/plan-formation.html#section-2--comprendre-lordinateur",
+      "author": "",
+      "categories": "introduction"
+    },
+"plan-formation-html#section-3--algorithme-et-pseudo-code": {
+      "title": "Section 3 : Algorithme et pseudo-code  (Plan du formation)",
+      "content"	 : "Section 3 : Algorithme et pseudo-code    C’est quoi un algorithme  Premier programme    ",
+      "url": "/algorithme/plan-formation.html#section-3--algorithme-et-pseudo-code",
+      "author": "",
+      "categories": "introduction"
+    },
+"plan-formation-html#section-4--variable-et-affectation": {
+      "title": "Section 4 : Variable et Affectation  (Plan du formation)",
+      "content"	 : "Section 4 : Variable et Affectation    C’est quoi d’une variable  Syntaxe de déclaration des variables  Affectation  Expression et opérateurs    ",
+      "url": "/algorithme/plan-formation.html#section-4--variable-et-affectation",
+      "author": "",
+      "categories": "introduction"
+    },
+"plan-formation-html#section-5--entrée-et-sortie": {
+      "title": "Section 5 : Entrée et sortie  (Plan du formation)",
+      "content"	 : "Section 5 : Entrée et sortie    Instruction Afficher  TD1-Afficher  Instruction - Lire  TD1- Lire    ",
+      "url": "/algorithme/plan-formation.html#section-5--entrée-et-sortie",
+      "author": "",
+      "categories": "introduction"
+    },
+"plan-formation-html#section-6---test": {
+      "title": "Section 6 - Test  (Plan du formation)",
+      "content"	 : "Section 6 - Test    Instruction SI    ",
+      "url": "/algorithme/plan-formation.html#section-6---test",
+      "author": "",
+      "categories": "introduction"
+    },
+"plan-formation-html#section-7--boucle": {
+      "title": "Section 7 : Boucle  (Plan du formation)",
+      "content"	 : "Section 7 : Boucle    La boucle Répéter    ",
+      "url": "/algorithme/plan-formation.html#section-7--boucle",
+      "author": "",
+      "categories": "introduction"
+    },
+"plan-formation-html#section-8--tableau": {
+      "title": "Section 8 : Tableau  (Plan du formation)",
+      "content"	 : "Section 8 : Tableau  ",
+      "url": "/algorithme/plan-formation.html#section-8--tableau",
       "author": "",
       "categories": "introduction"
     }
