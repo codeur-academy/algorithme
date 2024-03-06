@@ -5,7 +5,7 @@
 <a  href="https://www.youtube.com/watch?v=vFKJVftD38I&ab_channel=Codeur-academy" 
     target="_blank"
     style="text-align: center;display: block;" >
-    <img src="/images/formation-algorithme.png" style="max-width: 80%;">
+    <img src="/images/présentation-youtube.png" style="max-width: 80%;">
 </a>
 
 
