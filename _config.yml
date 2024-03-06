@@ -1,15 +1,15 @@
 # Titre et description
 title: Les bases de la programmation et algorithme
-destination: docs
 description: Les bases de la programmation et algorithme
 locale: fr_FR
+destination: docs
 environment: production
 # URL
 baseurl: "/algorithme"
 url: "https://codeur-academy.com" 
 
 # Formation
-
+lien_formation_udemy: "https://www.udemy.com/course/les-bases-de-la-programmation-et-algorithme/?referralCode=0AB16423D1592F34D295"
 
 # Table of content
 toc:
