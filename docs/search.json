@@ -96,42 +96,42 @@
 ,
 "informatique-html": {
       "title": "C’est quoi l’informatique ?",
-      "content"	 : "C’est quoi l’informatiqueDans ce chapitre je vais vous montrer la définition de l’informatique.Vous avez déjà utilisé l’informatique soit dans votre ordinateur ou dans votre téléphone portable, vous avez utilisé des logiciels.Mais, est ce que vous avez poser la question : c’est quoi l’informatique.Je vais vous montrer dans cette présentation la définition de l’informatique via trois autre définitions  Information  Traitement de l’information  Traitement automatique de l’information",
+      "content"	 : "C’est quoi l’informatiqueDans ce chapitre, je vais vous expliquer la définition de l’informatique.Vous avez déjà utilisé l’informatique, que ce soit dans votre ordinateur ou dans votre téléphone portable, ou vous avez utilisé des logiciels. Mais, est-ce que vous avez posé la question : c’est quoi l’informatique ?",
       "url": "/algorithme/informatique.html",
       "author": "",
       "categories": "ordinateur"
     },
 "informatique-html#informatique---notions-de-base": {
       "title": "Informatique - notions de base  (C’est quoi l’informatique ?)",
-      "content"	 : "Informatique - notions de baseLa notion de l’informatique est en relation avec trois autre notions :  Information  Traitement de l’information  Traitement automatique de l’information",
+      "content"	 : "Informatique - notions de baseLa notion d’informatique est en relation avec trois autres notions :  Information  Traitement de l’information  Traitement automatique de l’information",
       "url": "/algorithme/informatique.html#informatique---notions-de-base",
       "author": "",
       "categories": "ordinateur"
     },
 "informatique-html#information": {
       "title": "Information  (C’est quoi l’informatique ?)",
-      "content"	 : "InformationTous d’abord, c’est quoi l’informaiton.Vous pouvez voir l’information comme un renseignement sur une personne, un objet ou un événementJe vous donne un exemple. Le plat que vous voyez contient 5 pommes.Comme information : je peut vous dire queInformation : « le plat contient cinq pomme »Formes d’informationsL’information peut prend plusieurs formes :  Numérique  Alphanumérique  Textuelle  Visuelle  Sonore  AudiovisuelleNumérique  5  5,5Alphanumérique  A  5Textuelle  Pomme  5 pommesVisuelleSonoreAudiovisuelleInformation et donnéesMaintenant, quelle est la relation entre information et donnée ? Souvent on mélange ces deux notions.Nous pouvons voir l’information comme une association entre les donnéesJe vous donne un exemple :  à partie de notre plat qui contient 5 pommes. Nous avons deux données  Donnée 1 = 5 pommes  Donnée 2 = un platet une association  Association 1 = les pommes sur le platInformation 1 = Le plat contient 5 pommes",
+      "content"	 : "InformationTout d’abord, qu’est-ce que l’information?L’information peut être interprétée comme un renseignement sur une personne, un objet ou un événement.Je vous donne un exemple concret. Le plat que vous voyez contient 5 pommes.Comme information, je peux vous dire que : le plat contient cinq pommesInformation : « le plat contient cinq pommes »Formes d’informationsL’information peut se présenter sous différentes formes :  Numérique  Alphanumérique  Textuelle  Visuelle  Sonore  AudiovisuelleNumériqueNumérique comme par exemple :  5  4,2AlphanumériqueAlphanumérique comme les lettre et les chiffres  A  5TextuelleTextuelle comme :  Pomme  5 pommesVisuelleVisuelle comme les imagesSonoreSonore comme le sonAudiovisuelleAudiovisuelle comme les vidéosInformation et donnéesMaintenant, quelle est la relation entre l’information et les données ? Souvent, on mélange ces deux notions.Il est possible de voir l’information comme une association entre les donnéesJe vous donne un exemple :  en partant de notre plat qui contient 5 pommes. Nous disposons de deux données :  Donnée 1 = 5 pommes  Donnée 2 = un platet nous avons une association :  Association 1 = les pommes sur le platInformation 1 = Le plat contient 5 pommes",
       "url": "/algorithme/informatique.html#information",
       "author": "",
       "categories": "ordinateur"
     },
 "informatique-html#traitement-de-linformation": {
       "title": "Traitement de l’information  (C’est quoi l’informatique ?)",
-      "content"	 : "Traitement de l’informationMaintenant, c’est quoi le traitement de l’informationTraitement de l’information - exempleMaintenant, c’est quoi le traitement de l’informationPour vous expliquer, on prend l’exemple d’un caissier qui veut calculer la somme des articles achetés par un client.Pour calculer cette somme le caissier doit connaître le prix de chaque article. Ensuite il va faire un ensemble d’opérations arithmétiques pour calculer le total à payer. Comme résultat, nous obtenons la somme à payer.Dans un traitement, le prix d’article 1 et d’article 2 s’appelle données d’entrés. Et la somme à payer s’appelle résultat. On parle ici du traitement Calculer la somme à payer.Traitement  - DéfinitionÀ partir cette exemple nous pouvons déduire la définition suivant :Le traitement de l’information est une suite d’opérations avec un ordre, sur les informations de départ pour d’obtenir une nouvelle information qui s’appelle résultat.",
+      "content"	 : "Traitement de l’informationMaintenant, c’est quoi le traitement de l’information ?Traitement de l’information - exemplePour vous expliquer, prenons l’exemple d’un caissier qui souhaite calculer le montant total des articles achetés par un client.Afin de calculer le total, le caissier doit savoir le prix de chaque article. Ensuite, il va faire un ensemble d’opérations arithmétiques pour calculer le montant total à régler. Comme résultat, nous obtenons le montant à régler.Dans un traitement informatique, le prix de l’‘article 1 et de l’‘article 2 s’appelle données d’entrées. Et le montant à régler est appelé résultat. On parle ici du traitement Calculer la somme à régler.Traitement  - DéfinitionÀ partir de note exemple nous pouvons déduire la définition suivante :Le traitement de l’information est une suite d’opérations avec un ordre, sur les informations de départ pour d’obtenir une nouvelle information qui s’appelle le résultat.",
       "url": "/algorithme/informatique.html#traitement-de-linformation",
       "author": "",
       "categories": "ordinateur"
     },
 "informatique-html#traitement-automatique": {
       "title": "Traitement Automatique  (C’est quoi l’informatique ?)",
-      "content"	 : "Traitement AutomatiqueTraitement automatique ou manuelCe traitement peut prend plusieurs formes :  Automatique  Semi-automatique  ManuelOn dit que le traitement est automatique s’il est réalisé par un ordinateur.On dit que le traitement est semi-automatique s’il est réalisé par un humain en utilisant un calculatrice.Et finalement, si le traitement est réalisé par un crayon et un papier on dit que le traitement est manuel.",
+      "content"	 : "Traitement AutomatiqueTraitement automatique ou manuelCe traitement peut prendre plusieurs formes :  Automatique  Semi-automatique  ManuelOn dit que le traitement est automatique s’il est réalisé par un ordinateur.On dit que le traitement est semi-automatique s’il est réalisé par un humain en utilisant une calculatrice.Et finalement, si le traitement est réalisé par un crayon et un papier, on dit que le traitement est manuel.",
       "url": "/algorithme/informatique.html#traitement-automatique",
       "author": "",
       "categories": "ordinateur"
     },
 "informatique-html#informatique": {
       "title": "Informatique  (C’est quoi l’informatique ?)",
-      "content"	 : "InformatiqueInformatique - définitionIl est claire que :l’informatique est une est une science qui nous donne des outils pour faire le traitement automatique des informations.Ce traitement est généralement faite par une machine électrique ou un ordinateur.J’aimerai noter ici que, la source du nom informatique vient comme une combinaison entre le terme information et automatique",
+      "content"	 : "InformatiqueInformatique - définitionIl est claire que :L’informatique est une science qui nous donne des outils pour faire le traitement automatique des informations.Ce traitement est généralement fait par une machine électrique ou un ordinateur.J’aimerais noter ici que, la source du nom informatique vient comme une combinaison entre le terme information et automatique",
       "url": "/algorithme/informatique.html#informatique",
       "author": "",
       "categories": "ordinateur"
