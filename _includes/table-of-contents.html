@@ -17,7 +17,7 @@ width: 90%;"  src="{{site.baseurl}}/images/formation-en-video.png" alt="devenir-
 
 <ol class="chapter">
     {%- assign chapter_number = 1 -%}
-    {%- assign parties = site.parties | where: "in_book" , true -%}
+    {%- assign parties = site.parties | where: "in_book" , true | sort: "order"   -%}
     {% for partie in parties %}
     {%- assign chapitres = site.chapitres | where: "categories", partie.slug | sort: "order"  -%}
     <li class="chapter-item expanded affix"></li>

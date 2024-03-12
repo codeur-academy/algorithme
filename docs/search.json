@@ -6,6 +6,13 @@
       "author": "",
       "categories": "introduction"
     },
+"index-html#table-des-matières": {
+      "title": "Table des matières  (Introduction)",
+      "content"	 : "Table des matières             Introduction                                        1.Introduction                            2.Présentation du formateur                            3.Plan du formation         Situations-problèmes                     Comprendre l&#39;ordinateur                                        4.C’est quoi l’informatique ?                            5.C’est quoi l&amp;#39;ordinateur ?         Algorithme et pseudo-code                     Variable et affectation                     Entrée et sortie                     Test et condition                     Boucle                     Tableau                     Algorithmes élémentaires            ",
+      "url": "/algorithme/index.html#table-des-matières",
+      "author": "",
+      "categories": "introduction"
+    },
 "index-html#formation-complète-en-vidéo": {
       "title": "Formation complète en vidéo.  (Introduction)",
       "content"	 : "Formation complète en vidéo.La formation est disponible en format vidéo sur Udemy",
@@ -24,74 +31,45 @@
 ,
 "plan-formation-html": {
       "title": "Plan du formation",
-      "content"	 : "Plan de la formationLa formation est divisée en 5 parties :  Notions de base :          Comprendre l’ordinateur      Algorithme et pseudo-code        Les 4 catégories d’ordre compréhensible par l’ordinateur :          Entrée et sortie      Variable et affectation      Expression et opérateurs      Test      Boucle      Dans la première partie intitulée « Notion de base » je vais vous montrer  C’est quoi l’informatique,  C’est quoi un ordinateur,  C’est quoi un algorithme  et je vais terminer par vous montrer comment réaliser votre premier programme.Dans les parties suivantes, je vais vous assister à comprendre les 4 catégories d’ordre compréhensible par l’ordinateur,Tout d’abord, je commencerai par la catégorie d’ordre 1 intitulé : Entrée et Sortie.Ensuite : dans la catégorie d’ordre 2 : je vais traiter avec vous la notion du variable et d’affectation en détaillant le chapitre « Expression et opérateurs ».Enfin, dans les deux dernières parties je vais vous expliquer en détail la notion du Test et de la Boucle.",
+      "content"	 : "Plan de la formationLes bases de la programmation et algorithme",
       "url": "/algorithme/plan-formation.html",
       "author": "",
       "categories": "introduction"
     },
-"plan-formation-html#section-1--introduction": {
-      "title": "Section 1 : Introduction  (Plan du formation)",
-      "content"	 : "Section 1 : Introduction  Introduction  Présentation du formateur",
-      "url": "/algorithme/plan-formation.html#section-1--introduction",
+"plan-formation-html#introduction": {
+      "title": "Introduction  (Plan du formation)",
+      "content"	 : "IntroductionLa formation est organisé en quatre parties :  Notions de base  Les ordres compris par l’ordinateur  Quelques algorithmes élémentaires  Pratique basée sur des situations réelles.",
+      "url": "/algorithme/plan-formation.html#introduction",
       "author": "",
       "categories": "introduction"
     },
-"plan-formation-html#section-2--comprendre-lordinateur": {
-      "title": "Section 2 : Comprendre l’ordinateur  (Plan du formation)",
-      "content"	 : "Section 2 : Comprendre l’ordinateur  C’est quoi l’informatique  C’est quoi l’ordinateur",
-      "url": "/algorithme/plan-formation.html#section-2--comprendre-lordinateur",
+"plan-formation-html#notre-premier-algorithme": {
+      "title": "Notre premier algorithme  (Plan du formation)",
+      "content"	 : "Notre premier algorithmeUn programme informatique est exécuté par l’ordinateur. Avant d’élaborer notre premier algorithme, j’ai remarqué qu’il est primordial d’aborder la notion d’informatique et d’ordinateur. Ensuite, je vais vous expliquer la notion d’algorithme et sa relation avec un programme. Enfin, je vais vous montrer comment réaliser notre premier algorithme en utilisant le langage pseudo-code.  Informatique,  Ordinateur,  Algorithme et pseudo-code  Création de notre premier algorithme",
+      "url": "/algorithme/plan-formation.html#notre-premier-algorithme",
       "author": "",
       "categories": "introduction"
     },
-"plan-formation-html#section-3--algorithme-et-pseudo-code": {
-      "title": "Section 3 : Algorithme et pseudo-code  (Plan du formation)",
-      "content"	 : "Section 3 : Algorithme et pseudo-code  C’est quoi un algorithme  Premier programme",
-      "url": "/algorithme/plan-formation.html#section-3--algorithme-et-pseudo-code",
+"plan-formation-html#les-ordres-compris-par-lordinateur": {
+      "title": "Les ordres compris par l’ordinateur  (Plan du formation)",
+      "content"	 : "Les ordres compris par l’ordinateurL’ordinateur ne peut comprendre que quatre catégories d’ordre. Je vais vous assister à comprendre ces quatre catégories d’ordre avec des exemples pratiques, simples et détaillés.Tout d’abord, je vais commencer par la catégorie d’ordre 1 intitulée : Entrée et sortie. Ensuite, je vais aborder avec vous les notions de variable et affectation en détaillant le chapitre « Expression et opérateurs ». Enfin je vais vous expliquer en détail la notion du Test et de la Boucle.  Entrée et Sortie  Variable et d’affectation  Test  Boucle",
+      "url": "/algorithme/plan-formation.html#les-ordres-compris-par-lordinateur",
       "author": "",
       "categories": "introduction"
     },
-"plan-formation-html#section-4--variable-et-affectation": {
-      "title": "Section 4 : Variable et Affectation  (Plan du formation)",
-      "content"	 : "Section 4 : Variable et Affectation  C’est quoi d’une variable  Syntaxe de déclaration des variables  Affectation  Expression et opérateurs",
-      "url": "/algorithme/plan-formation.html#section-4--variable-et-affectation",
+"plan-formation-html#quelques-algorithmes-élémentaires": {
+      "title": "Quelques algorithmes élémentaires  (Plan du formation)",
+      "content"	 : "Quelques algorithmes élémentairesDans cette partie de formation, je vais vous faire découvrir quatre algorithmes élémentaires qui vont vous aider à concevoir vos futurs algorithmes.  Échanger deux variables  Rechercher un élément dans une liste  Rechercher la valeur maximale  Trier une liste",
+      "url": "/algorithme/plan-formation.html#quelques-algorithmes-élémentaires",
       "author": "",
       "categories": "introduction"
     },
-"plan-formation-html#section-5--entrée-et-sortie": {
-      "title": "Section 5 : Entrée et sortie  (Plan du formation)",
-      "content"	 : "Section 5 : Entrée et sortie  Instruction Afficher  TD1-Afficher  Instruction - Lire  TD1- Lire",
-      "url": "/algorithme/plan-formation.html#section-5--entrée-et-sortie",
+"plan-formation-html#pratique-basée-sur-des-situations-réelles": {
+      "title": "Pratique basée sur des situations réelles.  (Plan du formation)",
+      "content"	 : "Pratique basée sur des situations réelles.Dans cette partie de formation, je vais vous expliquer comment concevoir un algorithme pour résoudre un problème en traitant un ensemble des situations-problèmes. J’ai sélectionné des problèmes réels qui ont été rencontrés lors de la création d’une application informatique professionnelle.  Calcule avec des conditions en analysant un texte complexe  Trouver le nombre d’occurrences dans une liste",
+      "url": "/algorithme/plan-formation.html#pratique-basée-sur-des-situations-réelles",
       "author": "",
       "categories": "introduction"
-    },
-"plan-formation-html#section-6---test": {
-      "title": "Section 6 - Test  (Plan du formation)",
-      "content"	 : "Section 6 - Test  Instruction SI",
-      "url": "/algorithme/plan-formation.html#section-6---test",
-      "author": "",
-      "categories": "introduction"
-    },
-"plan-formation-html#section-7--boucle": {
-      "title": "Section 7 : Boucle  (Plan du formation)",
-      "content"	 : "Section 7 : Boucle  La boucle Répéter",
-      "url": "/algorithme/plan-formation.html#section-7--boucle",
-      "author": "",
-      "categories": "introduction"
-    },
-"plan-formation-html#section-8--tableau": {
-      "title": "Section 8 : Tableau  (Plan du formation)",
-      "content"	 : "Section 8 : Tableau",
-      "url": "/algorithme/plan-formation.html#section-8--tableau",
-      "author": "",
-      "categories": "introduction"
-    }
-,
-"comprendre-ordinateur-html": {
-      "title": "Bien démarrer",
-      "content"	 : "Comprendre l’ordinateur",
-      "url": "/algorithme/comprendre-ordinateur.html",
-      "author": "",
-      "categories": "ordinateur"
     }
 ,
 "informatique-html": {
