@@ -117,7 +117,7 @@
 ,
 "ordinateur-html": {
       "title": "C’est quoi l&apos;ordinateur ?",
-      "content"	 : "C’est quoi l’ordinateur ?Il est certain que vous avez déjà utilisé un ordinateur ou un téléphone portable. Mais avez-vous déjà demandé : qu’est-ce qu’un ordinateur?Comme vous êtes des débutants dans le domaine de la programmation informatique, je vais répondre plusieurs questions dans ce chapitre :  C’est quoi l’ordinateur ?  Quel sont les composants de cet ordinateur ?  Et pourquoi les ordres sont écrits en 0 et 1 ?Je ne vais pas entrer dans les détails techniques pour rester simple et claire.Un ordinateur est une machine électrique capable d’exécuter un programme qui comprend une série d’opérations compréhensibles par cette machine. Ce programme est écrit à l’avance par un programmeur.",
+      "content"	 : "C’est quoi l’ordinateur ?Il est certain que vous avez déjà utilisé un ordinateur ou un téléphone portable. Mais avez-vous déjà demandé : qu’est-ce qu’un ordinateur?Comme vous êtes des débutants dans le domaine de la programmation informatique, je vais répondre à plusieurs questions dans ce chapitre :  C’est quoi l’ordinateur ?  Quel sont les composants de cet ordinateur ?  Et pourquoi les ordres sont écrits en 0 et 1 ?Je ne vais pas entrer dans les détails techniques pour rester simple et claire.Un ordinateur est une machine électrique capable d’exécuter un programme qui comprend une série d’opérations compréhensibles par cette machine. Ce programme est écrit à l’avance par un programmeur.",
       "url": "/algorithme/ordinateur.html",
       "author": "",
       "categories": "ordinateur"
@@ -143,24 +143,17 @@
       "author": "",
       "categories": "ordinateur"
     },
-"ordinateur-html#lécran----ordinateur-vu-extérieur": {
-      "title": "L’écran -  ordinateur vu extérieur  (C’est quoi l'ordinateur ?)",
-      "content"	 : "L’écran -  ordinateur vu extérieurSelon la vue extérieure.ÉcranParmi les composant d’ordinateur : l’écran. C’est celui qui va interagir avec l’utilisateur. L’écran est la partie de l’ordinateur qui va afficher du contenu.L’unité centraleC’est le boîtier qui contient tout le matériel électronique indispensable au fonctionnement de l’ordinateur.La sourisC’est elle qui permet de déplacer le curseur sur l’écran.Le clavierIl permet d’écrire du texte et de communiquer avec l’ordinateur",
-      "url": "/algorithme/ordinateur.html#lécran----ordinateur-vu-extérieur",
+"ordinateur-html#ordinateur-vu-extérieur": {
+      "title": "Ordinateur vu extérieur  (C’est quoi l'ordinateur ?)",
+      "content"	 : "Ordinateur vu extérieurSelon la vue extérieure.ÉcranParmi les composant d’ordinateur : l’écran. C’est celui qui va interagir avec l’utilisateur. L’écran est la partie de l’ordinateur qui va afficher du contenu.L’unité centraleC’est le boîtier qui contient tout le matériel électronique indispensable au fonctionnement de l’ordinateur.La sourisC’est elle qui permet de déplacer le curseur sur l’écran.Le clavierIl permet d’écrire du texte et de communiquer avec l’ordinateur",
+      "url": "/algorithme/ordinateur.html#ordinateur-vu-extérieur",
       "author": "",
       "categories": "ordinateur"
     },
 "ordinateur-html#ordinateur-vu-intérieur": {
       "title": "Ordinateur vu intérieur  (C’est quoi l'ordinateur ?)",
-      "content"	 : "Ordinateur vu intérieurJe vais maintenant vous montrer les composants internes de l’ordinateur",
+      "content"	 : "Ordinateur vu intérieurJe vais maintenant vous montrer les composants internes de l’ordinateurCarte mèreTout d’abord, nous avons la carte-mère. C’est une plaque qui contient un circuit imprimé sur lequel sont fixés les composants électroniques principaux de l’ordinateur.Disque dureC’est la mémoire de l’ordinateur. Il est chargé de stocker des données informatiques.Mémoire viveIl est également appelé RAM (Random  Access Memory). Cette mémoire est utilisée par le processeur. Il y stocke les données durant son traitement.Carte graphiqueElle gère l’affichage de l’ordinateur. Il décharge le processeur de cette fonction d’affichage.Carte sonIl gère tous les sons de l’ordinateur aussi bien en entrée qu’en sortie.ProcesseurEt dernièrement, le processeur. Il s’appelle aussi CPU (Central Processing Unit). Le processeur est le cerveau de l’ordinateur. Tous les traitements s’effectuent à l’intérieur de ce processeur.Ce processeur permet de faire trois choses :  lire les données en mémoire;  Traiter les données;  Écrire des données en mémoire;",
       "url": "/algorithme/ordinateur.html#ordinateur-vu-intérieur",
-      "author": "",
-      "categories": "ordinateur"
-    },
-"ordinateur-html#processeur---ordinateur-vu-intérieur": {
-      "title": "Processeur - ordinateur vu intérieur  (C’est quoi l'ordinateur ?)",
-      "content"	 : "Processeur - ordinateur vu intérieurCarte mèreTout d’abord, nous avons la carte-mère. C’est une plaque qui contient un circuit imprimé sur lequel sont fixés les composants électroniques principaux de l’ordinateur.Disque dureC’est la mémoire de l’ordinateur. Il est chargé de stocker des données informatiques.Mémoire viveIl est également appelé RAM (Random  Access Memory). Cette mémoire est utilisée par le processeur. Il y stocke les données durant son traitement.Carte graphiqueElle gère l’affichage de l’ordinateur. Il décharge le processeur de cette fonction d’affichage.Carte sonIl gère tous les sons de l’ordinateur aussi bien en entrée qu’en sortie.ProcesseurEt dernièrement, le processeur. Il s’appelle aussi CPU (Central Processing Unit). Le processeur est le cerveau de l’ordinateur. Tous les traitements s’effectuent à l’intérieur de ce processeur.Ce processeur permet de faire trois choses :  lire les données en mémoire;  Traiter les données;  Écrire des données en mémoire;",
-      "url": "/algorithme/ordinateur.html#processeur---ordinateur-vu-intérieur",
       "author": "",
       "categories": "ordinateur"
     },

@@ -49,6 +49,20 @@ em{
     margin-left: auto;
     margin-right: auto;
     display: block;
+    border: 1px solid #aaa;
+
+    box-shadow: 2px 2px 0px #ccc;
+    -moz-box-shadow: 2px 2px 0px #ccc;
+    -webkit-box-shadow: 2px 2px 0px #ccc;
+    -khtml-box-shadow: 2px 2px 0px #ccc;
+}
+
+/* Caption */
+.content img + em {
+display: block;
+font-size: 1.5rem;
+text-align: center;
+margin-top: 5px;
 }
  
 
@@ -94,3 +108,5 @@ em{
 .rouge-table td {
     vertical-align: top;
 }
+
+

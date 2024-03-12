@@ -81,5 +81,17 @@ $(document).ready(function(){
 
 
 
+// Ajouter une légende après chaque image 
+
+$(document).ready(function(){
+    $(".content img").each(function(){
+        var legend = "<em> figure : " + $(this).attr('alt')  +"</em>";
+        $(this).after(legend) ;
+        
+    });
+});
+
+ 
+
 
 
