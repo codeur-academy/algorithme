@@ -1,0 +1,32 @@
+<nav id="table-matiere" class="table-matiere" >
+    <ol class="chapter">
+        {%- assign chapter_number = 1 -%}
+        {%- assign parties = site.parties | where: "in_book" , true -%}
+        {% for partie in parties %}
+        {%- assign chapitres = site.chapitres | where: "categories", partie.slug | sort: "order"  -%}
+        <li class="chapter-item expanded affix"></li>
+        <li class="part-title"> {{partie.title}}</li>
+            {% for chapitre in chapitres %}
+            {%- if chapitre.categories contains partie.slug  -%}
+        <li class="chapter-item expanded">
+            <a href="{{site.baseurl}}{{chapitre.url}}" class="{%- if page.url == post.url -%} active {%- endif -%} ">
+                <strong aria-hidden="true">{{chapter_number}}.</strong>  
+                {%- if chapitre.title_in_part -%}
+                {{ chapitre.title_in_part | escape }}
+                {%- else -%}
+                {{ chapitre.title | escape }}
+                {%- endif -%}
+            </a>
+            {%- if site.toc.enabled -%}
+            {%- if page.url == post.url -%}
+                {%- include toc.html html=content h_min=site.toc.h_min h_max=site.toc.h_max -%}
+            {%- endif -%}
+            {%- endif -%}
+        </li>  
+        {%- assign chapter_number = chapter_number | plus: 1 -%}  
+            {%- endif -%}
+            {%- endfor -%}
+        {%- endfor -%}
+    </ol>
+
+</nav>
